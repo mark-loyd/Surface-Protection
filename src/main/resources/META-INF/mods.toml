@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="surface_protection"
+version="0.0.1"
+displayName="Surface Protection"
+displayURL="https://mcreator.net"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+authors="Mark_Loyd, MCreator"
+
+[[dependencies.surface_protection]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
